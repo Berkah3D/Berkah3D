@@ -2,3 +2,4 @@ Rencana Membuat Kontet Berkah3D :
 
 - Membuat video youtube HTML
 - Membuat video youtube CSS
+- Membuat video youtube Javascript ES6
